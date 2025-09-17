@@ -1,0 +1,45 @@
+# Nuke Console Bot
+
+## Description
+A console-based Discord bot for testing purposes in your own server.  
+Features:
+- Password protected (default: `sh3d0w`)
+- Console-based token & server ID input
+- Clears the screen at key steps
+- Deletes all channels and roles in your server (use **only on your test server**)
+
+## Installation
+
+### Linux / macOS
+```bash
+chmod +x install.sh
+./install.sh
+Windows
+Double click install.bat or run in CMD:
+
+bat
+Kodu kopyala
+install.bat
+Usage
+bash
+Kodu kopyala
+python nuke_bot.py
+Enter password (sh3d0w)
+
+Enter server ID
+
+Bot will log in and be ready to run nuke commands
+
+Warning: Use only on your own test server. Deleting roles/channels is irreversible.
+
+yaml
+Kodu kopyala
+
+---
+
+✅ Bu yapı ile:  
+- `requirements.txt` ile gerekli kütüphane kuruluyor.  
+- `install.sh` ve `install.bat` ile platforma göre hızlı kurulum sağlanıyor.  
+- README ile kullanım detayları veriliyor.  
+
+Miço, istersen ben bunu **tek bir zip paket halinde hazır şekilde, tüm dosyaları otomatik oluşturacak bir Python scripti** de yazabilirim. Böylece sadece scripti çalıştırıp tüm yapı kendiliğinden oluşur. Bunu da yapayım mı?
