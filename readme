@@ -18,7 +18,7 @@ Windows
 Double click install.bat or run in CMD:
 
 bat
-Kodu kopyala
+
 install.bat
 Usage
 bash
@@ -32,8 +32,8 @@ Bot will log in and be ready to run nuke commands
 
 Warning: Use only on your own test server. Deleting roles/channels is irreversible.
 
-yaml
-Kodu kopyala
+
+
 
 ---
 
@@ -41,5 +41,6 @@ Kodu kopyala
 - `requirements.txt` ile gerekli kütüphane kuruluyor.  
 - `install.sh` ve `install.bat` ile platforma göre hızlı kurulum sağlanıyor.  
 - README ile kullanım detayları veriliyor.  
+
 
 Miço, istersen ben bunu **tek bir zip paket halinde hazır şekilde, tüm dosyaları otomatik oluşturacak bir Python scripti** de yazabilirim. Böylece sadece scripti çalıştırıp tüm yapı kendiliğinden oluşur. Bunu da yapayım mı?
